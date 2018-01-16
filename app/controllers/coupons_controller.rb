@@ -1,5 +1,5 @@
 class CouponsController < ApplicationController
 
-  def post
+  def create
   end
 end
